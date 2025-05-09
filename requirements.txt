@@ -1,2 +1,6 @@
-pip install pandas seaborn
-pip install rdkit-pypi scikit-learn pandas
+pandas 
+seaborn
+rdkit-pypi 
+scikit-learn 
+pandas
+deepchem
