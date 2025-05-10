@@ -4,3 +4,4 @@ rdkit-pypi
 scikit-learn 
 pandas
 deepchem
+tensorflow
