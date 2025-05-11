@@ -2,3 +2,4 @@ memo.ipynb
 *.npy
 *.key
 *.csv
+File data/*.npy
